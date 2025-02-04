@@ -1,0 +1,169 @@
+<changelist name="Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]" date="1719748910353" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 30/06/2024 15:01 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="out/test/ADDS_Group_AU/SupplierFixedDayTest.class" />
+    <option name="AFTER_PATH" value="out/test/ADDS_Group_AU/SupplierFixedDayTest.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]/SupplierFixedDayTest.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Order_Controller.class" />
+    <option name="AFTER_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Order_Controller.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]/Order_Controller.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Order.class" />
+    <option name="AFTER_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Order.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]/Order.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Payment_Method.class" />
+    <option name="AFTER_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Payment_Method.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]/Payment_Method.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/test/ADDS_Group_AU/SupplierByOrderTest.class" />
+    <option name="AFTER_PATH" value="out/test/ADDS_Group_AU/SupplierByOrderTest.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]/SupplierByOrderTest.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Supplier_Controller.class" />
+    <option name="AFTER_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Supplier_Controller.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]/Supplier_Controller.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Supplier_Fixed_Days.class" />
+    <option name="AFTER_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Supplier_Fixed_Days.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]/Supplier_Fixed_Days.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Day.class" />
+    <option name="AFTER_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Day.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]/Day.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Supplier_By_Order.class" />
+    <option name="AFTER_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Supplier_By_Order.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]/Supplier_By_Order.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Order_Status.class" />
+    <option name="AFTER_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Order_Status.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]/Order_Status.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ADDS_Group_AU/DataAccessLayer/ProductControllerDTO$1.class" />
+    <option name="AFTER_PATH" value="out/production/ADDS_Group_AU/DataAccessLayer/ProductControllerDTO$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]/ProductControllerDTO$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Order$1.class" />
+    <option name="AFTER_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Order$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]/Order$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ADDS_Group_AU/DataAccessLayer/DTO.class" />
+    <option name="AFTER_PATH" value="out/production/ADDS_Group_AU/DataAccessLayer/DTO.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]/DTO.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Product.class" />
+    <option name="AFTER_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Product.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]/Product.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ADDS_Group_AU/ServiceLayer/Service_Controller.class" />
+    <option name="AFTER_PATH" value="out/production/ADDS_Group_AU/ServiceLayer/Service_Controller.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]/Service_Controller.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ADDS_Group_AU/DataAccessLayer/DbController.class" />
+    <option name="AFTER_PATH" value="out/production/ADDS_Group_AU/DataAccessLayer/DbController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]/DbController.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ADDS_Group_AU/ServiceLayer/Supplier_Service.class" />
+    <option name="AFTER_PATH" value="out/production/ADDS_Group_AU/ServiceLayer/Supplier_Service.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]/Supplier_Service.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ADDS_Group_AU/ServiceLayer/Product_Service.class" />
+    <option name="AFTER_PATH" value="out/production/ADDS_Group_AU/ServiceLayer/Product_Service.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]/Product_Service.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Contact.class" />
+    <option name="AFTER_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Contact.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]/Contact.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/test/ADDS_Group_AU/OrderTest.class" />
+    <option name="AFTER_PATH" value="out/test/ADDS_Group_AU/OrderTest.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]/OrderTest.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Delivering_Method.class" />
+    <option name="AFTER_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Delivering_Method.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]/Delivering_Method.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/test/ADDS_Group_AU/ProductTest.class" />
+    <option name="AFTER_PATH" value="out/test/ADDS_Group_AU/ProductTest.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]/ProductTest.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Product_Controller.class" />
+    <option name="AFTER_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Product_Controller.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]/Product_Controller.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Supplying_Method.class" />
+    <option name="AFTER_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Supplying_Method.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]/Supplying_Method.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Product_Category.class" />
+    <option name="AFTER_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Product_Category.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]/Product_Category.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ADDS_Group_AU/DataAccessLayer/ProductControllerDTO.class" />
+    <option name="AFTER_PATH" value="out/production/ADDS_Group_AU/DataAccessLayer/ProductControllerDTO.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]/ProductControllerDTO.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ADDS_Group_AU/DataAccessLayer/ProductDTO.class" />
+    <option name="AFTER_PATH" value="out/production/ADDS_Group_AU/DataAccessLayer/ProductDTO.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]/ProductDTO.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Product_Agreement_Data.class" />
+    <option name="AFTER_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Product_Agreement_Data.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]/Product_Agreement_Data.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ADDS_Group_AU/Main/Main.class" />
+    <option name="AFTER_PATH" value="out/production/ADDS_Group_AU/Main/Main.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]/Main.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ADDS_Group_AU/PresentationLayer/CLI.class" />
+    <option name="AFTER_PATH" value="out/production/ADDS_Group_AU/PresentationLayer/CLI.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]/CLI.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Agreement.class" />
+    <option name="AFTER_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Agreement.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]/Agreement.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Supplier.class" />
+    <option name="AFTER_PATH" value="out/production/ADDS_Group_AU/DomainLayer/Supplier.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]/Supplier.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="release/ADDS_Group_AU.jar" />
+    <option name="AFTER_PATH" value="release/ADDS_Group_AU.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_2024_15_01_[Changes]/ADDS_Group_AU.jar" />
+  </binary>
+</changelist>

@@ -1,0 +1,347 @@
+product_id,product_name,company_name,product_category
+0,Chicken Breast,TIV-OF,MEAT_PRODUCTS
+1,Schnitzel,TIV-OF,MEAT_PRODUCTS
+2,Chicken Thighs,TIV-OF,MEAT_PRODUCTS
+3,Chicken Legs,TIV-OF,MEAT_PRODUCTS
+4,Chicken fillet,TIV-OF,MEAT_PRODUCTS
+5,Spring Chicken,TIV-OF,MEAT_PRODUCTS
+6,Chicken Wings,TIV-OF,MEAT_PRODUCTS
+7,Chicken Liver,TIV-OF,MEAT_PRODUCTS
+8,Chicken Hearts,TIV-OF,MEAT_PRODUCTS
+9,Chicken Breast,OF-TOV,MEAT_PRODUCTS
+10,Schnitzel,OF-TOV,MEAT_PRODUCTS
+11,Chicken Thighs,OF-TOV,MEAT_PRODUCTS
+12,Chicken Legs,OF-TOV,MEAT_PRODUCTS
+13,Chicken fillet,OF-TOV,MEAT_PRODUCTS
+14,Chicken Wings,OF-TOV,MEAT_PRODUCTS
+15,Chicken Liver,OF-TOV,MEAT_PRODUCTS
+16,Chicken Hearts,OF-TOV,MEAT_PRODUCTS
+17,Chicken Breast,TIBON-VILL,MEAT_PRODUCTS
+18,Schnitzel,TIBON-VILL,MEAT_PRODUCTS
+19,Chicken Thighs,TIBON-VILL,MEAT_PRODUCTS
+20,Chicken Legs,TIBON-VILL,MEAT_PRODUCTS
+21,Chicken fillet,TIBON-VILL,MEAT_PRODUCTS
+22,Entrecote,TIBON-VILL,MEAT_PRODUCTS
+23,Beef fillet,TIBON-VILL,MEAT_PRODUCTS
+24,Sirloin,TIBON-VILL,MEAT_PRODUCTS
+25,Beef Burger,TIBON-VILL,MEAT_PRODUCT
+26,Asado,TIBON-VILL,MEAT_PRODUCTS
+27,Ground beef,TIBON-VILL,MEAT_PRODUCTS
+28,Beef shoulder,TIBON-VILL,MEAT_PRODUCTS
+29,Chicken Breast,MAHFUD,MEAT_PRODUCTS
+30,Schnitzel,MAHFUD,MEAT_PRODUCTS
+31,Chicken Thighs,MAHFUD,MEAT_PRODUCTS
+32,Chicken Legs,MAHFUD,MEAT_PRODUCTS
+33,Chicken fillet,MAHFUD,MEAT_PRODUCTS
+34,Spring Chicken,MAHFUD,MEAT_PRODUCTS
+35,Chicken Wings,MAHFUD,MEAT_PRODUCTS
+36,Chicken Liver,MAHFUD,MEAT_PRODUCTS
+37,Chicken Hearts,MAHFUD,MEAT_PRODUCTS
+38,Entrecote,MAHFUD,MEAT_PRODUCTS
+39,Beef fillet,MAHFUD,MEAT_PRODUCTS
+40,Sirloin,MAHFUD,MEAT_PRODUCTS
+41,Ground beef,MAHFUD,MEAT_PRODUCTS
+42,Beef shoulder,MAHFUD,MEAT_PRODUCTS
+43,Yellow cheese 28% fat,Tnuva,DAIRY_PRODUCTS
+44,Yellow cheese 16% fat,Tnuva,DAIRY_PRODUCTS
+45,Yellow cheese 9% fat,Tnuva,DAIRY_PRODUCTS
+46,Yellow cheese 5% fat,Tnuva,DAIRY_PRODUCTS
+47,Butter,Tnuva,DAIRY_PRODUCTS
+48,Mango yogurt,Muller,DAIRY_PRODUCTS
+49,Strawberry yogurt,Muller,DAIRY_PRODUCTS
+50,Lemon yogurt,Muller,DAIRY_PRODUCTS
+51,Coconut-pineapple yogurt,Muller,DAIRY_PRODUCTS
+52,Vanilla yogurt,Muller,DAIRY_PRODUCTS
+53,Yogurt Cappuccino,Muller,DAIRY_PRODUCTS
+54,Pistachio yogurt,Mueller,DAIRY_PRODUCTS
+55,Lemon yogurt,SKYR,DAIRY_PRODUCTS
+56,Strawberry yogurt,SKYR,DAIRY_PRODUCTS
+57,Salted caramel yogurt,SKYR,DAIRY_PRODUCTS
+58,Yogurt Activia Chia seeds,Danone,DAIRY_PRODUCTS
+59,Active yogurt with oats,Danone,DAIRY_PRODUCTS
+60,Strawberry yogurt,Tnuva,DAIRY_PRODUCTS
+61,Strawberry yogurt 0% fat,YOPLAIT,DAIRY_PRODUCTS
+62,Peach yogurt 0% fat,YOPLAIT,DAIRY_PRODUCTS
+63,Strawberry PRELI,Tnuva,DAIRY_PRODUCTS
+64,Strawberry flavored protein yogurt,Danone,DAIRY_PRODUCTS
+65,Peach flavored protein yogurt,Danone,DAIRY_PRODUCTS
+66,Pistachio flavored protein yogurt,Danone,DAIRY_PRODUCTS
+67,Salted caramel flavored protein yogurt,Danone,DAIRY_PRODUCTS
+68,Natural flavored protein yogurt,Donna,DAIRY_PRODUCTS
+69,Vanilla flavored protein yogurt,Danone,DAIRY_PRODUCTS
+70,Strawberry flavored protein yogurt,YOPLAIT,DAIRY_PRODUCTS
+71,Pineapple flavored protein yogurt,YOPLAIT,DAIRY_PRODUCTS
+72,Berry flavored protein yogurt,YOPLAIT,DAIRY_PRODUCTS
+73,Cookie flavored protein yogurt,YOPLAIT,DAIRY_PRODUCTS
+74,Cherry flavored protein yogurt,YOPLAIT,DAIRY_PRODUCTS
+75,Vanilla flavored protein yogurt,YOPLAIT,DAIRY_PRODUCTS
+76,Coconut flavored protein yogurt,YOPLAIT,DAIRY_PRODUCTS
+77,Coffee flavored protein drink,Danone,DAIRY_PRODUCTS
+78,Strawberry flavored protein drink,Danone,DAIRY_PRODUCTS
+79,Passion fruit flavored protein drink,Yopla,DAIRY_PRODUCTS
+80,Goat yogurt,Tsuriel farm,DAIRY_PRODUCTS
+81,Goat yogurt with strawberry,Gad Dairy,DAIRY_PRODUCTS
+82,Natural goat yogurt,Gad Dairy,DAIRY_PRODUCTS
+83,Actimel,Danone,DAIRY_PRODUCTS
+84,Actimel strawberry flavor,Danone,DAIRY_PRODUCTS
+85,Strawberry banana yogurt drink,Danone,DAIRY_PRODUCTS
+86,Mango pineapple yogurt drink,Danone,DAIRY_PRODUCTS
+87,Strawberry and melon yogurt drink,YOPLAIT,DAIRY_PRODUCTS
+88,A tropical flavored yogurt drink,YOPLAIT,DAIRY_PRODUCTS
+89,Royon,Tnuva,DAIRY_PRODUCTS
+90,Milky,Strauss,DAIRY_PRODUCTS
+91,Milky Extra whipped cream,Strauss,DAIRY_PRODUCTS
+92,Milky Trio,Strauss,DAIRY_PRODUCTS
+93,Milky with the addition of coated cornflakes,Strauss,DAIRY_PRODUCTS
+94,Milky,Tara,DAIRY_PRODUCTS
+95,Yolo chocolate,Yolo,DAIRY_PRODUCTS
+96,Yolo dark chocolate,Yolo,DAIRY_PRODUCTS
+97,Pistachio flavored Daniela,Strauss,DAIRY_PRODUCTS
+98,Strawberry flavored Daniela,Strauss,DAIRY_PRODUCTS
+99,Vanilla flavored Daniela,Strauss,DAIRY_PRODUCTS
+100,Milk 1% fat,Tnuva,DAIRY_PRODUCTS
+101,Milk 2% fat,Tnuva,DAIRY_PRODUCTS
+102,Milk 3% fat,TARA,DAIRY_PRODUCTS
+103,Milk 1% fat,TARA,DAIRY_PRODUCTS
+104,Milk 2% enriched with lactose,TARA,DAIRY_PRODUCTS
+105,Milk 3% fat,Tnuva,DAIRY_PRODUCTS
+106,Milk 1% fat low lactose,Tnuva,DAIRY_PRODUCTS
+107,Milk 3% fat,Yotvata dairy,DAIRY_PRODUCTS
+108,Chocolate drink,Yotvata,DAIRY_PRODUCTS
+109,Mocha drink,Yotvata,DAIRY_PRODUCTS
+110,Cappuccino drink,Yotvata,DAIRY_PRODUCTS
+111,Vanilla drink,Yotvata,DAIRY_PRODUCTS
+112,Vanilla flavored drink,Yotvata,DAIRY_PRODUCTS
+113,Cottage cheese 1% fat,Tnuva,DAIRY_PRODUCTS
+114,Cottage cheese 3% fat,Tnuva,DAIRY_PRODUCTS
+115,Cottage cheese 5% with olives,Tnuva,DAIRY_PRODUCTS
+116,Cream cheese,Tnuva,DAIRY_PRODUCTS
+117,Farm Cheese 1% fat,Tnuva,DAIRY_PRODUCTS
+118,Farm Cheese 3% fat,Tnuva,DAIRY_PRODUCTS
+119,Cottage cheese 1% fat,TARA,DAIRY_PRODUCTS
+120,Cottage cheese 3% fat,TARA,DAIRY_PRODUCTS
+121,Cottage cheese 5% with olives,TARA,DAIRY_PRODUCTS
+122,Cream cheese,TARA,DAIRY_PRODUCTS
+123,Farm Cheese 1% fat,TARA,DAIRY_PRODUCTS
+124,Farm Cheese 3% fat,TARA,DAIRY_PRODUCTS
+125,Ricotta cheese,Gad Dairy,DAIRY_PRODUCTS
+126,Parmesan cheese,Gad Dairy,DAIRY_PRODUCTS
+127,Adam's cheese,Tnuva,DAIRY_PRODUCTS
+128,Mozzarella cheese,Tnuva,DAIRY_PRODUCTS
+129,Bulgarian cheese,Gad Dairy,DAIRY_PRODUCTS
+130,Cream for cooking,the white chef,DAIRY_PRODUCTS
+131,Sour cream,the white chef,DAIRY_PRODUCTS
+132,Cream for baking,the white chef,DAIRY_PRODUCTS
+133,Bosha cheese,Gad Dairy,DAIRY_PRODUCTS
+134,Mascarpone cheese,TARA,DAIRY_PRODUCTS
+135,Frozen Peas,Sunfrost,MEAT_PRODUCTS
+136,Frozen Broccoli,Sunfrost,MEAT_PRODUCTS
+137,Frozen Beans,Sunfrost,MEAT_PRODUCTS
+138,Frozen Corn,Sunfrost,MEAT_PRODUCTS
+139,Frozen Chickpeas,Sunfrost,MEAT_PRODUCTS
+140,Frozen White Cauliflower,Sunfrost,MEAT_PRODUCTS
+141,Frozen White Beans,Sunfrost,MEAT_PRODUCTS
+142,Frozen Artichoke Saucers,Sunfrost,MEAT_PRODUCTS
+143,Frozen Fries,The Three Chefs,MEAT_PRODUCTS
+144,Frozen Chips,Tapu-Gan,MEAT_PRODUCTS
+145,Frozen Onion Rings,Tapu-Gan,MEAT_PRODUCTS
+146,Frozen Sweet Potato Chips,Tapu-Gan,MEAT_PRODUCTS
+147,Frozen Minced Garlic,Generations,MEAT_PRODUCTS
+148,Frozen Chopped Parsley,Generations,MEAT_PRODUCTS
+149,Frozen Chopped Cilantro,Generations,MEAT_PRODUCTS
+150,Frozen Minced Garlic,Yachin,MEAT_PRODUCTS
+151,Frozen Chopped Parsley,Yachin,MEAT_PRODUCTS
+152,Frozen Chopped Cilantro,Yachin,MEAT_PRODUCTS
+153,Strawberry Banana Frozen Mix For Smoothies,Sunfrost,MEAT_PRODUCTS
+154,Strawberry Frozen Mix For Smoothies,Sunfrost,MEAT_PRODUCTS
+155,Frozen Mixture Berries,Sunfrost,MEAT_PRODUCTS
+156,Frozen Salmon,Tnuva,MEAT_PRODUCTS
+157,Frozen Tilapia Fillet,Tnuva,MEAT_PRODUCTS
+158,Frozen Salmon Cut Into Cubes,Tnuva,MEAT_PRODUCTS
+159,Frozen Nile Princess Fish,Tnuva,MEAT_PRODUCTS
+160,Frozen Bream Fish,Tnuva,MEAT_PRODUCTS
+161,Frozen Red Tuna,Tnuva,MEAT_PRODUCTS
+162,Frozen Bream Fish,Deli-Dag,MEAT_PRODUCTS
+163,Frozen Red Tuna,Deli-Dag,MEAT_PRODUCTS
+164,Frozen Fish Patties,Deli-Dag,MEAT_PRODUCTS
+165,Frozen Tilapia Fillet,Deli-Dag,MEAT_PRODUCTS
+166,Schnitzels In The Shape Of Dinosaurs,Mama-Of,MEAT_PRODUCTS
+167,Schnitzels,Mama-Of,MEAT_PRODUCTS
+168,Schnitzels,OF-TOV,MEAT_PRODUCTS
+169,Star-Shaped Schnitzels,OF-TOV,MEAT_PRODUCTS
+170,Frozen Ground Chicken,Tibon-Vill,MEAT_PRODUCTS
+171,Frozen Ground Turkey,Tibon-Vill,MEAT_PRODUCTS
+172,Frozen Ground Beef,Tibon-Vill,MEAT_PRODUCTS
+173,Frozen Chicken Breast,MAUFUD,MEAT_PRODUCTS
+174,Frozen Chicken,MAHFUD,MEAT_PRODUCTS
+175,Frozen Hamburger,EL-GAUCHO,MEAT_PRODUCTS
+176,Frozen Hamburger,Tomer-Tomas,MEAT_PRODUCTS
+177,Frozen Kebab,EL-GAUCHO,MEAT_PRODUCTS
+178,Frozen Sausages,EL-GAUCHO,MEAT_PRODUCTS
+179,Frozen Hamburger,Tibon-Vill,MEAT_PRODUCTS
+180,Frozen Hamburger,Tibon-Vill,MEAT_PRODUCTS
+181,Frozen Kebab,Tibon-Vill,MEAT_PRODUCTS
+182,Frozen Sausages,Tibon-Vill,MEAT_PRODUCTS
+183,Tomato,Katif,FRUITS_AND_VEGETABLES
+184,Cucumbers,Katif,FRUITS_AND_VEGETABLES
+185,Dry White Onion,Katif,FRUITS_AND_VEGETABLES
+186,Dry Purple Onion,Katif,FRUITS_AND_VEGETABLES
+187,Red Gamba,Katif,FRUITS_AND_VEGETABLES
+188,Yellow Gamba,Katif,FRUITS_AND_VEGETABLES
+189,Potato,Dod Moshe,FRUITS_AND_VEGETABLES
+190,Green Apple,Katif,FRUITS_AND_VEGETABLES
+191,Smith Apple,Katif,FRUITS_AND_VEGETABLES
+192,Red Apple,Katif,FRUITS_AND_VEGETABLES
+193,Pear,Katif,FRUITS_AND_VEGETABLES
+194,Lemon,Katif,FRUITS_AND_VEGETABLES
+195,Garlic,Fresco,FRUITS_AND_VEGETABLES
+196,Parsley,Fresco,FRUITS_AND_VEGETABLES
+197,Coriander,Fresco,FRUITS_AND_VEGETABLES
+198,Shamir,Fresco,FRUITS_AND_VEGETABLES
+199,Louisa,Fresco,FRUITS_AND_VEGETABLES
+200,Parsley,Strauss,FRUITS_AND_VEGETABLES
+201,Coriander,Strauss,FRUITS_AND_VEGETABLES
+202,Shamir,Strauss,FRUITS_AND_VEGETABLES
+203,Louisa,Strauss,FRUITS_AND_VEGETABLES
+204,Sweet Potato,Katif,FRUITS_AND_VEGETABLES
+205,Watermelon,Katif,FRUITS_AND_VEGETABLES
+206,Grapes,Tali Grapes,FRUITS_AND_VEGETABLES
+207,Grapes,Katif,FRUITS_AND_VEGETABLES
+208,Carrot,Katif,FRUITS_AND_VEGETABLES
+209,Cabbage,Katif,FRUITS_AND_VEGETABLES
+210,Cauliflower,Katif,FRUITS_AND_VEGETABLES
+211,Melon,Katif,FRUITS_AND_VEGETABLES
+212,Red Hot Pepper,Katif,FRUITS_AND_VEGETABLES
+213,Red Hot Pepper,Katif,FRUITS_AND_VEGETABLES
+214,Chili Pepper,Katif,FRUITS_AND_VEGETABLES
+215,Lettuce,Katif,FRUITS_AND_VEGETABLES
+216,Champignon Mushrooms,Katif,FRUITS_AND_VEGETABLES
+217,Portobello Mushrooms,Katif,FRUITS_AND_VEGETABLES
+218,Wipes,Nicole,CLEANING_PRODUCTS
+219,Wipes,Quick,CLEANING_PRODUCTS
+220,Toilet Scent Spray,Sano,CLEANING_PRODUCTS
+221,Toilet Scent Spray,Dettol,CLEANING_PRODUCTS
+222,Blue Window Cleaning Spray,Sano,CLEANING_PRODUCTS
+223,Blue Window Cleaning Spray,Dettol,CLEANING_PRODUCTS
+224,Pine Gel,Sano,CLEANING_PRODUCTS
+225,Pine Gel,Jacobi,CLEANING_PRODUCTS
+226,Pine Oil,Sano,CLEANING_PRODUCTS
+227,Pine Oil,Jacobi,CLEANING_PRODUCTS
+228,Alcohol-Free Wipes,,CLEANING_PRODUCTS
+229,Scale Remover,Cif,CLEANING_PRODUCTS
+230,Descaling Remover,AJAX,CLEANING_PRODUCTS
+231,Bleach,Ritzpaz,CLEANING_PRODUCTS
+232,Floor Cleaner,Ritzpaz,CLEANING_PRODUCTS
+233,Bleach Lemon Scent,Ritzpaz,CLEANING_PRODUCTS
+234,Washing Gel,AJAX,CLEANING_PRODUCTS
+235,Fabric Softener,AJAX,CLEANING_PRODUCTS
+236,Bacteria Remover Spray,Dettol,CLEANING_PRODUCTS
+237,Germicidal Spray,Estonian,CLEANING_PRODUCTS
+238,Bacteria Remover Spray,Sano,CLEANING_PRODUCTS
+239,Toilet Paper,Snow,CLEANING_PRODUCTS
+240,Toilet Paper,Lily,CLEANING_PRODUCTS
+241,Dish Soap,Sano,CLEANING_PRODUCTS
+242,Scotch For Cleaning Dishes,General,CLEANING_PRODUCTS
+243,Garbage Bags,General,CLEANING_PRODUCTS
+244,Orange Juice,Pri-Mor,DRINKS
+245,Apple Juice,Pri-Mor,DRINKS
+246,Grape Juice,Pri-Mor,DRINKS
+247,Orange Juice,PriGat,DRINKS
+248,Apple Juice,PriGat,DRINKS
+249,Grape Juice,PriGat,DRINKS
+250,Kiwi-Severes Juice,Spring,DRINKS
+251,Mango Juice,Spring,DRINKS
+252,Coke,Coca Cola,DRINKS
+253,Coke,Pepsi Drinks,DRINKS
+254,Pepsi Max,Pepsi Drinks,DRINKS
+255,Cola Zero,Coca Cola,DRINKS
+256,Soda,Schwapps,DRINKS
+257,Mineral Water,Paradise Water,DRINKS
+258,Mineral Water,San Benedetto,DRINKS
+259,Soda,San Benedetto,DRINKS
+260,Mineral Water,Ein Gedi,DRINKS
+261,Sprite,Coca Cola,DRINKS
+262,Sprite Zero,Coca Cola,DRINKS
+263,7UP,Pepsi Drinks,DRINKS
+264,7UP Diet,Pepsi Drinks,DRINKS
+265,Grape Flavored Water,San Benedetto,DRINKS
+266,Peach Flavored Water,San Benedetto,DRINKS
+267,Apple Flavored Water,San Benedetto,DRINKS
+268,Grape-Flavored Water,Sprouts,DRINKS
+269,Peach Flavored Water,Sprouts,DRINKS
+270,Apple Flavored Water,Sprouts,DRINKS
+271,Nasty,Coca Cola,DRINKS
+272,A Six-Pack Of Beers,Carlsberg,DRINKS
+273,A Six-Pack Of Heineken Beers,,DRINKS
+274,A Pack Of Six Beers,Corona,DRINKS
+275,A Six-Pack Of Beers,Goldstar,DRINKS
+276,Miranda,Pepsi Drinks,DRINKS
+277,Pomegranate Juice,Spring,DRINKS
+278,Cranberry Juice,Spring,DRINKS
+279,Black Coffee,Elite,DRIED_PRODUCTS
+280,Black Coffee,Landwehr,DRIED_PRODUCTS
+281,Black Coffee,Al-Nakhla,DRIED_PRODUCTS
+282,Ness Coffee,Nestlé,DRIED_PRODUCTS
+283,Ness Coffee,Elite,DRIED_PRODUCTS
+284,Canned Tuna,Filatuna,DRIED_PRODUCTS
+285,Canned Tuna,Master-Tuna,DRIED_PRODUCTS
+286,Crushed Tomatoes,Yachin,DRIED_PRODUCTS
+287,Tomato Paste,Yachin,DRIED_PRODUCTS
+288,Canned Corn,Yachin,DRIED_PRODUCTS
+289,Pasta,Osem,DRIED_PRODUCTS
+290,Pasta,Pasta Barilla,DRIED_PRODUCTS
+291,Penne Pasta,Barilla Pasta,DRIED_PRODUCTS
+292,Fettuccine Pasta,Osem,DRIED_PRODUCTS
+293,Lasagna Sheets,Osem,DRIED_PRODUCTS
+294,Flakes,Osem,DRIED_PRODUCTS
+295,Tea,Vysotsky,DRIED_PRODUCTS
+296,Couscous,Osem,DRIED_PRODUCTS
+297,Rice,Osem,DRIED_PRODUCTS
+298,Salt,The Salt Of Israel,DRIED_PRODUCTS
+299,Sugar,Israel Sugar,DRIED_PRODUCTS
+300,Bread,Angel Bakery,DRIED_PRODUCTS
+301,Buns,Angel Bakery,DRIED_PRODUCTS
+302,Pita,Angel Bakery,DRIED_PRODUCTS
+303,Pickled Cucumbers In Salt,Yachin,DRIED_PRODUCTS
+304,Pickled Cucumbers In Vinegar,Yachin,DRIED_PRODUCTS
+305,Canned White Beans,Yachin,DRIED_PRODUCTS
+306,Canned Black Olives,Yachine,DRIED_PRODUCTS
+307,Canned Green Olives,Yachin,DRIED_PRODUCTS
+308,Canned Palm Hearts,Yachin,DRIED_PRODUCTS
+309,Walnuts,Roasted Yvegi,DRIED_PRODUCTS
+310,Roasted Pecans,Yabegi Toast,DRIED_PRODUCTS
+311,Sunflower Seeds,Roasted Yvegi,DRIED_PRODUCTS
+312,Pumpkin Seeds,Roasted Yams,DRIED_PRODUCTS
+313,Shampoo,Keif,CLEANING_PRODUCTS
+314,Shampoo,Hawaii,CLEANING_PRODUCTS
+315,Shampoo,Pinuk,CLEANING_PRODUCTS
+316,Hand soap,Keif,CLEANING_PRODUCTS
+317,Hand soap,Hawaii,CLEANING_PRODUCTS
+318,Hand soap,Pinuk,CLEANING_PRODUCTS
+319,Bath lotion,Keif,CLEANING_PRODUCTS
+320,Bath lotion,Hawaii,CLEANING_PRODUCTS
+321,Bath lotion,Pinuk,CLEANING_PRODUCTS
+322,Baking Powder,The White Chef,MISCELLANEOUS
+323,Vanilla Sugar,The White Chef,MISCELLANEOUS
+324,Plastic Bags For Sandwiches,Sano,MISCELLANEOUS
+325,Disposable Plates,R. Shamai,MISCELLANEOUS
+326,Disposable Cups,R. Shamai,MISCELLANEOUS
+327,Disposable Forks,R. Shamai,MISCELLANEOUS
+328,Disposable Spoons,R. Shamai,MISCELLANEOUS
+329,Disposable Map,R. Shamai,MISCELLANEOUS
+330,Potato Chips,Osem,MISCELLANEOUS
+331,Beasley Bezal,Osem,MISCELLANEOUS
+332,Beasley Pizza,Osem,MISCELLANEOUS
+333,Doritos With Natural Flavor,Osem,MISCELLANEOUS
+334,Cheetos Cheese,Elite,MISCELLANEOUS
+335,Cheetos Ketchup,Elite,MISCELLANEOUS
+336,Teddy Bears,Osem,MISCELLANEOUS
+337,Cornflex Pillows,Thelma,MISCELLANEOUS
+338,Cornflakes Of Champions,Thelma,MISCELLANEOUS
+339,Ciniminis,Nestlé,MISCELLANEOUS
+340,Spicy Doritos,Osem,MISCELLANEOUS
+341,Doritos With Spicy Sour Taste,Osem,MISCELLANEOUS
+342,Cheddar Cheese Flavored Doritos,Osem,MISCELLANEOUS
+343,Wine For Kiddush,Gamla Winery,MISCELLANEOUS
+344,Shabbat Candles,Kiddush Products,MISCELLANEOUS
+345,Scotch For The Body For The Shower,General,MISCELLANEOUS
